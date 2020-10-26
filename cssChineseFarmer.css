@@ -4,6 +4,9 @@ a {
 a:hover{
     background-color: yellow;
 }
+a:visited{
+    color: turquoise;
+}
 
 body {
     background-color: #aed5e0;
@@ -20,7 +23,7 @@ header {
     text-align: center;
 }
 h1 {
-    color: aqua;
+    color: darkblue;
 }
 blockquote {
     margin: auto;
@@ -29,11 +32,14 @@ blockquote {
     font-size: 160%;
     font-style: italic;
     background-color:#C5C9C6 ;
-    border-left-color: firebrick ; 
+    border-right: solid;
     border-right-color: firebrick;
-    border-left-width: 3px;
     border-right-width: 3px;
+    border-left: solid;
+    border-left-color: firebrick;
+    border-left-width: 3px;
     padding-bottom: 30px;
+    padding-top: 30px;
 }
 p {
     font-family:'Times New Roman', Times, serif  ;
