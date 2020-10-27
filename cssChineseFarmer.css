@@ -120,6 +120,9 @@ p {
 }
 table {
     width: 30%; ;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
     
 }
 td { 
