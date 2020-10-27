@@ -134,3 +134,8 @@ tr:nth-child(even) td:nth-child(odd) {
 td>tr{
     border:3px solid black;
 }
+footer{
+    color: darkslategray;
+    letter-spacing: 1px;
+    font-size: 10px;
+}
