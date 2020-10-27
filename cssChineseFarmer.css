@@ -130,3 +130,14 @@ footer{
     letter-spacing: 1px;
     font-size: 10px;
 }
+.notification{
+    background:#aed5e0;
+    padding: .5rem 1rem;
+    border:4px;
+    width:250px;
+    font-weight: lighter;
+    color:darkblue;
+    position: fixed;
+    bottom: 1px;
+    right: 1px;
+}
