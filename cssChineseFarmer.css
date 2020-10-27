@@ -69,6 +69,24 @@ ul li:nth-child(2) {
 ul li:nth-child(3) {
     background-image: url(/chat.png);
 }
+section.card1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin:50px;
+}
+section.card1 img{
+    width: 50%;
+    height: auto;
+}
+section.card p{
+    display:flex;
+    flex-direction:column;
+    margin-top:20px;
+    margin-left:30px;
+    font-weight:bold;
+    color: darkblue;
+}
 h2{
     text-align: center;
     margin:30px;
@@ -81,7 +99,7 @@ section.card2{
 }
 section.card2 img{
     widows: 50%;
-    height:auto;
+    height: auto;
 }
 section.card2 p{
     display:flex;
@@ -89,9 +107,8 @@ section.card2 p{
     align-items: center;
     margin-top: 20px;
     margin-left: 30px;
-    color: grey
+    color: darkblue
 }
-
 p {
     font-family:serif ;
     font-size: 15px;
