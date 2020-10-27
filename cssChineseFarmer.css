@@ -11,7 +11,7 @@ a:visited{
 body {
     background-color: #aed5e0;
     background-image:url(https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
-    background-position: bottom-right ;
+    background-position: bottom right ;
     background-repeat: no-repeat;
     background-size: cover;
     width: 90%;
@@ -24,6 +24,7 @@ header {
 }
 h1 {
     color: darkblue;
+
 }
 blockquote {
     margin: auto;
@@ -43,13 +44,76 @@ blockquote {
     margin-top: 80px;
     margin-bottom: 80px;
 }
+.bold{
+    font-weight: bolder;
+}
+ul {
+    display: inline-block;
+    width: fit-content;
+    margin: 20px;
+}
+li {
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-right: 30px;
+    background-size: contain;
+}
+ul li:nth-child(1) {
+    background-image: url(/bien.png);
+}
+
+ul li:nth-child(2) {
+    background-image: url(/mal.png);
+}
+
+ul li:nth-child(3) {
+    background-image: url(/chat.png);
+}
+h2{
+    text-align: center;
+    margin:30px;
+}
+section.card2{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+    margin: 50px;
+}
+section.card2 img{
+    widows: 50%;
+    height:auto;
+}
+section.card2 p{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 30px;
+    color: grey
+}
+
 p {
-    font-family:'Times New Roman', Times, serif  ;
+    font-family:serif ;
     font-size: 15px;
     letter-spacing: 1px;
     color: #0F1135
 }
 table {
-    width:50px ;
-    height: 50px;
+    width: 40%; ;
+    
+}
+td { 
+    width: 100px;
+}
+tr {
+    background-color: #303030;
+}
+tr:nth-child(odd) td:nth-child(even) {
+    background-color: white;
+}
+tr:nth-child(even) td:nth-child(odd) {
+    background-color: white;
+}
+td>tr{
+    border:3px solid black;
 }
