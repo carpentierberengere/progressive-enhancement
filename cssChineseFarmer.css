@@ -169,4 +169,12 @@ q.villager{
     border-left-width: 4px;
     border-left-style: solid;
 }
+.good{
+    font-weight: bold;
+    color: green;
+}
+.bad{
+    font-weight: bold;
+    color:red
+}
 
