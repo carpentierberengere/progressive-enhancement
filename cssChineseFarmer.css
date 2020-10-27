@@ -26,6 +26,9 @@ h1 {
     color: darkblue;
 
 }
+p:first-of-type {
+    font-weight: bold;
+}
 blockquote {
     margin: auto;
     width: inherit;
@@ -84,10 +87,11 @@ section.card1 p{
     flex-direction: column;
     align-items: center;
     margin-top:20px;
-    margin-left:30px;
+    margin-left:10px;
+    color:darkblue;
 }
 section.card1 img{
-    height:50%;
+    width:50%;
     height:auto;
 }
 section.card2{
