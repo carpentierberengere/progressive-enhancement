@@ -118,11 +118,12 @@ p {
     color: #0F1135;
 }
 table {
-    width: 40%; ;
+    width: 30%; ;
     
 }
 td { 
     width: 100px;
+    height: 30px;
 }
 tr {
     background-color: #979696;
@@ -151,4 +152,7 @@ footer{
     position: fixed;
     bottom: 1px;
     right: 1px;
+}
+p{
+    font-size: 15px;
 }
