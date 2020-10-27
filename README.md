@@ -21,7 +21,7 @@ We learned some basic HTML and CSS commands, as well as some that were not that 
 * CSS3
 * HTML5
 * The :sparkles:Holy:sparkles: Internet 
-* Useful tips and tricks from our coaches and comrades
+* Useful tips and tricks from our coaches and comrades :blue_heart:
 
 ## What does it look like ? 
 
