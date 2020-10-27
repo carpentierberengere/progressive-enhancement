@@ -156,3 +156,17 @@ footer{
 p{
     font-size: 15px;
 }
+q{
+    font-style: italic;
+}
+q.farmer{
+    border-left: darkgreen;
+    border-left-width: 4px;
+    border-left-style: solid;
+}
+q.villager{
+    border-left: rgb(182, 9, 81);
+    border-left-width: 4px;
+    border-left-style: solid;
+}
+
