@@ -24,3 +24,4 @@ We learned some basic HTML and CSS commands, as well as some that were not that 
 ## What does it look like ? 
 
 This is not the whole thing, just a little preview ! 
+[!PREVIEW!](https://raw.githubusercontent.com/carpentierberengere/progressive-enhancement/main/preview.png)
