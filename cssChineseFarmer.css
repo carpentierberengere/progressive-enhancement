@@ -66,15 +66,15 @@ li {
     background-size: contain;
 }
 ul li:nth-child(1) {
-    background-image: url(/bien.png);
+    background-image:url(/bien.png)
 }
 
 ul li:nth-child(2) {
-    background-image: url(/mal.png);
+    background-image: url(/mal.png)
 }
 
 ul li:nth-child(3) {
-    background-image: url(/chat.png);
+    background-image: url(/chat.png)
 }
 h2{
     text-align: center;
