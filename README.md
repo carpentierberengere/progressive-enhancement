@@ -14,12 +14,14 @@ Using online ressources and given indications, we had to re-build a page from th
 
 ## What did we learn ?
 
-We learned some basic HTML and CSS commands, as well as some that were not that easy (Flexbox nearly made me *lose my mind*).
+We learned some basic HTML and CSS commands, as well as some that were not that easy (Flexbox nearly made me *lose my mind* :boom:).
 
 ## What did we use ? 
 
 * CSS3
 * HTML5
+* The :sparkles:Holy:sparkles: Internet 
+* Useful tips and tricks from our coaches and comrades
 
 ## What does it look like ? 
 
