@@ -1,11 +1,11 @@
 a {
-    color: chartreuse;
+    color: greenyellow;
 }
 a:hover{
     background-color: yellow;
 }
 a:visited{
-    color: turquoise;
+    color: darkgreen;
 }
 
 body {
@@ -40,6 +40,8 @@ blockquote {
     border-left-width: 3px;
     padding-bottom: 30px;
     padding-top: 30px;
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
 p {
     font-family:'Times New Roman', Times, serif  ;
