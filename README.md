@@ -10,7 +10,7 @@ We needed to re-create a webpage while following some instructions.
 
 ## What did we do ? 
 
-Using online ressources and given indications, we had to re-build a page from the ground up. We received the links, texts and pictures that we needed and, from those, made an HTML file, followed by a CSS file, that we later connected. 
+Using online ressources and given [*indications*](https://github.com/becodeorg/bxl-hopper-1-25/tree/master/The%20Field/3.HTML%2BCSS/0.progressive_enhancement/ "Instructions"), we had to re-build a page from the ground up. We received the links, texts and pictures that we needed and, from those, made an HTML file, followed by a CSS file, that we later connected. 
 
 ## What did we learn ?
 
